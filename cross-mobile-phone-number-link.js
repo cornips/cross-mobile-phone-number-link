@@ -2,6 +2,7 @@
  * Cross mobile replace phone number with link
  * Copyright (c) 2016 Martijn Cornips
  * Place this code inside your $('document').ready() function
+ * https://github.com/cornips/cross-mobile-phone-number-link
  */
 
 /**
