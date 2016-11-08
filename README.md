@@ -5,6 +5,11 @@ Optionally add custom phone numbers not catched by default pattern to variable s
 
 ```
 /**
+ * Cross mobile replace phone number with link
+ * Copyright (c) 2016 Martijn Cornips
+ * https://github.com/cornips/cross-mobile-phone-number-link
+ */
+/**
  * jQuery.browser.mobile (http://detectmobilebrowser.com/)
  *
  * jQuery.browser.mobile will be true if the browser is a mobile device
