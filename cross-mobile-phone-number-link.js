@@ -14,7 +14,8 @@
 
 if (jQuery.browser.mobile) {
 
-    var specialPhoneNumbers = [];// special phonenumbers not catched by default Dutch pattern.
+    // Optionally add special phone numbers not catched by default pattern.
+    var specialPhoneNumbers = [];
 
     $('body').contents().each(function(){
         var element = $(this);
